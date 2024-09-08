@@ -1,16 +1,12 @@
 <h1 align="center"> ¡Hola! 👋 Soy Ricardo Fernández </h1>
 <div align="center">
-
+<span>
 ![Data Science](https://img.shields.io/static/v1?label=&message=Data+Science&color=%230077B5&style=for-the-badge)
-
 ![Data Engineering](https://img.shields.io/static/v1?label=&message=Data+Engineering&color=%23E05D44&style=for-the-badge)
-
 ![Data Analytics](https://img.shields.io/static/v1?label=&message=Data+Analytics&color=%23F0DB4F&style=for-the-badge)
-
 ![Artificial Intelligence](https://img.shields.io/static/v1?label=&message=Artificial+Intelligence&color=%2300ADD8&style=for-the-badge)
-
 ![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine+Learning&color=%23415A77&style=for-the-badge)
-
+</span>
 </div>
 
 
@@ -40,28 +36,33 @@ Constantemente me esfuerzo por expandir mis conocimientos 🧠. Estas son alguna
 <h2 align="center">Lenguajes y Tools</h2>
 
 <div align="center">
-
+<span>
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+</span>
+<span>
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+</span>
+<span>
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-
+</span>
+<span>
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+</span>
 
 </div>
+
 
 
 ¿Quieres verlas todas? Visita mi perfil de LinkedIn: https://www.linkedin.com/in/ricardo-fern%C3%A1ndez00/
@@ -139,14 +140,12 @@ Siempre estoy buscando expandir mis conocimientos y habilidades. Actualmente, es
   
   <div>
     <!-- Lenguajes más usados -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyFer22&theme=dark&hide_border=false" height="153" />
+    <img #img-representation-2 height="153" />
     
     <!-- Estadísticas de GitHub (streaks) -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFer22&theme=dark&hide_border=true" height="153" />
   </div>
   
-  <!-- Opcional: Trofeos de GitHub, solo si te parece interesante -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=RickyFer22&theme=darkhub&no-frame=true&column=7" alt="Trofeos de GitHub" width="95%"/> -->
 </div>
 
 
