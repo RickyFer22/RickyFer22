@@ -1,13 +1,11 @@
 <h1 align="center">¡Hola! 👋 Soy Ricardo Fernández</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast&center=true&width=380&height=45">
-</p>
+<h1 align="center" style="background-color: #0D1117; color: #00BFBF; padding: 20px; border-radius: 10px;">¡Hola! 👋 Soy Ricardo Fernández</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricardo-fern%C3%A1ndez00/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ferguz32@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast&center=true&width=380&height=45&color=00BFBF&background=0D1117">
 </p>
+
 
 ## 🚀 Sobre mí
 
@@ -79,25 +77,63 @@ Me motiva aplicar mis habilidades para resolver problemas del mundo real, explor
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 Análisis de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Fernández github stats" style="width: 49%; max-width: 500px; margin: 0 0.5%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" style="width: 49%; max-width: 500px; margin: 0 0.5%;" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFer22&theme=radical" alt="GitHub Streak" />
-</p>
 
-## 💼 ¡Estoy buscando nuevas oportunidades!
 
-Estoy en búsqueda activa de nuevos desafíos donde pueda aplicar mis habilidades y conocimientos en un entorno colaborativo y estimulante. ¡No dudes en contactarme!
+### 📈 Contribuciones
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ricardo-fern%C3%A1ndez00/">
-    <img src="https://img.shields.io/badge/Conecta_conmigo_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyFer22&theme=github_dark" />
+</div>
+
+### 🔥 Racha de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFer22&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
+</div>
+
+### 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RickyFer22&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+## 🌐 Redes Sociales y Contacto
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-fern%C3%A1ndez00/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+  <a href="mailto:ferguz32@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/RickyFer22" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+## 💼 Oportunidades Profesionales
+
+Estoy en búsqueda activa de nuevos desafíos donde pueda aplicar mis habilidades en ciencia de datos, ingeniería de datos y machine learning. Si tu empresa está buscando a alguien con mi perfil, ¡me encantaría conversar!
+
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RickyFer22&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al Perfil">
+</div>
+
+<div align="center">
+  "La ciencia de datos es el arte de transformar datos en conocimiento accionable."
+</div>
+
 
 
 
