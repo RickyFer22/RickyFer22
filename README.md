@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color: #0D1117; color: #00BFBF; padding: 20px; border-radius: 10px;">¡Hola! 👋 Soy Ricardo Fernández!</h1>
+<h1 align="center" style="background-color: #0D1117; color: #00BFBF; padding: 20px; border-radius: 10px;">¡Hola! 👋 Soy Ricardo Fernández</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast&center=true&width=380&height=45&color=00BFBF&background=0D1117">
