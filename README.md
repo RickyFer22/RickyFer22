@@ -1,5 +1,3 @@
-<h1 align="center">¡Hola! 👋 Soy Ricardo Fernández</h1>
-
 <h1 align="center" style="background-color: #0D1117; color: #00BFBF; padding: 20px; border-radius: 10px;">¡Hola! 👋 Soy Ricardo Fernández</h1>
 
 <p align="center">
