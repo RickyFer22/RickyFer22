@@ -83,20 +83,6 @@ Me motiva aplicar mis habilidades para resolver problemas del mundo real, explor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Lenguajes más usados por Ricardo Fernández" style="width: 100%;" />
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de GitHub de Ricardo Fernández" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Lenguajes más usados por Ricardo Fernández" />
-    </td>
-  </tr>
-</table>
-
-
-
-
 
 ### 📈 Contribuciones
 
