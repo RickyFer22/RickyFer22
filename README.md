@@ -75,18 +75,13 @@ Me motiva aplicar mis habilidades para resolver problemas del mundo real, explor
   </tr>
 </table>
 
+
 ## 📊 Análisis de GitHub
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Ricardo Fernández github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de GitHub de Ricardo Fernández" style="width: 49%; max-width: 500px; margin: 0.5%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Lenguajes más usados por Ricardo Fernández" style="width: 49%; max-width: 500px; margin: 0.5%;" />
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RickyFer22&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00BFBF&fire=89DDC1&ring=89DDC1&currStreakNum=89DDC1&sideNums=89DDC1&currStreakLabel=89DDC1&sideLabels=89DDC1&dates=4C8EDA)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RickyFer22&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 
 
@@ -125,7 +120,6 @@ Me motiva aplicar mis habilidades para resolver problemas del mundo real, explor
 ## 💼 Oportunidades Profesionales
 
 Estoy en búsqueda activa de nuevos desafíos donde pueda aplicar mis habilidades en ciencia de datos, ingeniería de datos y machine learning. Si tu empresa está buscando a alguien con mi perfil, ¡me encantaría conversar!
-
 
 
 ---
