@@ -1,58 +1,66 @@
-<h1 align="center" style="background-color: #0D1117; color: #00BFBF; padding: 20px; border-radius: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/109553557?v=4" width="100" height="100" style="border-radius: 50%; margin-right: 20px;" />
-  ¡Hola! 👋 Soy Ricardo Fernández
+<h1 align="center" style="background-color: #0D1117; color: #00BFBF; padding: 20px; border-radius: 15px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <img src="https://avatars.githubusercontent.com/u/109553557?v=4" width="120" height="120" style="border-radius: 50%; margin-bottom: 15px; border: 2px solid #00BFBF;" />
+  ¡Hola! 👋 Soy <span style="color: #00E5E5;">Ricardo Fernández</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Data+Engineer;Machine+Learning;Deep+Learning;AI+Enthusiast&center=true&width=380&height=45&color=00BFBF&background=0D1117">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Data+Engineer;Machine+Learning;Deep+Learning;AI+Enthusiast&center=true&width=450&height=45&color=00E5E5&background=0D1117">
 </p>
+
+---
 
 ## 🚀 Sobre mí
 
-Soy un apasionado de la ciencia de datos y la inteligencia artificial, con experiencia en:
+Apasionado por la **ciencia de datos** y la **inteligencia artificial**, con experiencia en:  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Data_Science-0077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEbSURBVHjarNK9K8UBGMfxj+sSETFIBoPJYJJBMVgkg0m5/8Bgt1gMBoMkq9FgkWQymNwMBoMkJmUQETFIer7qOTq/n3Od4T2c5/2c5/v9nqdWr9drVMU+znCFR7QwxCe+sYcVTEWUjXksYwMnWMQtXtBNDLaxilkcJLiBNzhsF7xgHxNYxyX6+MAAGzjHLJ7QiZI2ujjFPr7wiTu8Yx4XmMYHuinxHg8h7OAYvQg9wC7WcB8/aIW4GcJLPOMNRyhCeJxq9COcEU5Kxl+FeBTzjtKqiR/MYKpk3AzRMGbN/5NaOIoZF/GPqP7SNcJJzPgXVUVNXGMpxKOqonJxhHGIB1VFZeIW5kI8rCoqEy/hOsSDqqIycQMPIe5VFZWJGxjGjB9VReXiMX4HAFWiUXd1S0D+AAAAAElFTkSuQmCC&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Data_Engineering-E05D44?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/Data_Analytics-F0DB4F?style=for-the-badge&logo=google-analytics&logoColor=black" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-00ADD8?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine_Learning-415A77?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Science-0077B5?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Engineering-E05D44?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analytics-F0DB4F?style=for-the-badge&logo=google-analytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00ADD8?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-415A77?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-Me motiva aplicar mis habilidades para resolver problemas del mundo real, explorando datos 🕵️ para descubrir insights y construyendo pipelines robustos 💪 para su procesamiento.
+🎯 Mi motivación es **resolver problemas reales** aplicando análisis de datos 🕵️, descubriendo insights valiosos y construyendo **pipelines robustos** 💪 para optimizar procesos.
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
+
+---
 
 ## 🌱 Actualmente aprendiendo
 
-- LLMs (Large Language Models)
-  - Prompt Engineering
-  - RAG (Retrieval-Augmented Generation)
-  - Fine-Tuning
-- MLOps
-  - Kubernetes
-  - MLFlow
-  - BentoML
-- Frameworks para interfaces de chat
-  - LangChain
-  - Chainlit
-  - Flowise
+- **LLMs**  
+  - Prompt Engineering  
+  - RAG (Retrieval-Augmented Generation)  
+  - Fine-Tuning  
+- **MLOps**  
+  - Kubernetes  
+  - MLFlow  
+  - BentoML  
+- **Frameworks para Chatbots**  
+  - LangChain  
+  - Chainlit  
+  - Flowise  
+
+---
 
 ## 💼 Proyectos Destacados
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
   <a href="https://github.com/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RickyFer22&repo=Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores&theme=dark&show_owner=true" />
   </a>
@@ -67,58 +75,45 @@ Me motiva aplicar mis habilidades para resolver problemas del mundo real, explor
   </a>
 </div>
 
+---
+
 ## 📊 Análisis de GitHub
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de GitHub de Ricardo Fernández" style="width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Lenguajes más usados por Ricardo Fernández" style="width: 100%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyFer22&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFer22&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyFer22&show_icons=true&count_private=true&hide_border=true&title_color=00E5E5&icon_color=00E5E5&text_color=c9d1d9&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyFer22&layout=compact&hide_border=true&title_color=00E5E5&text_color=00E5E5&bg_color=0d1117" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyFer22&theme=github_dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFer22&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00E5E5&fire=00E5E5&currStreakLabel=00E5E5" height="180"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RickyFer22&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-## 🏆 Cómo mejorar mis Trofeos de GitHub
+---
 
-Los Trofeos de GitHub se otorgan por completar ciertos logros en GitHub. Aquí hay algunas sugerencias para mejorar mis trofeos:
-
-- Crear más repositorios públicos.
-- Hacer más pull requests a repositorios de otros usuarios.
-- Seguir a más usuarios en GitHub.
-- Conseguir más seguidores en GitHub.
-- Unirse a organizaciones en GitHub.
-- Contribuir a proyectos de código abierto.
-
-## 🌐 Redes Sociales y Contacto
+## 🌐 Conéctate conmigo
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/ricardo-fern%C3%A1ndez00/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:ferguz32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/RickyFer22" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-
-## 💼 Oportunidades Profesionales
-
-Estoy en búsqueda activa de nuevos desafíos donde pueda aplicar mis habilidades en ciencia de datos, ingeniería de datos y machine learning. Si tu empresa está buscando a alguien con mi perfil, ¡me encantaría conversar!
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RickyFer22&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al Perfil">
+  <img src="https://komarev.com/ghpvc/?username=RickyFer22&color=blueviolet&style=flat-square&label=Visitas+al+Perfil">
 </div>
 
-<div align="center">
+<div align="center" style="font-style: italic; color: #9CA3AF; margin-top: 15px;">
   "La ciencia de datos es el arte de transformar datos en conocimiento accionable."
 </div>
-
-
 
 
