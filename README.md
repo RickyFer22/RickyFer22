@@ -8,6 +8,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=520&height=40&lines=Ciencia+de+datos+aplicada+a+problemas+reales;Pipelines+de+datos+robustos+y+automatizados;Machine+Learning+y+LLMs+en+producci%C3%B3n" alt="Roles animados" />
 
+<img src="https://img.shields.io/github/followers/RickyFer22?style=flat-square&color=14B8A6&label=Seguidores" alt="Seguidores" />
+<img src="https://img.shields.io/github/repos/RickyFer22?style=flat-square&color=14B8A6&label=Repos" alt="Repositorios" />
+<img src="https://img.shields.io/github/stars/RickyFer22?style=flat-square&color=14B8A6&label=Stars" alt="Stars" />
+
 </div>
 
 ---
@@ -32,6 +36,20 @@ Apasionado por la **ciencia de datos** y la **inteligencia artificial**. Mi moti
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,docker,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,docker,git,github,vscode&theme=light" alt="Iconos del stack" />
+</picture>
+
+</div>
+
+<details>
+<summary><b>Ver stack completo por categoría</b></summary>
+
+<br />
+
+<div align="center">
+
 **Lenguajes y análisis**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,6 +71,8 @@ Apasionado por la **ciencia de datos** y la **inteligencia artificial**. Mi moti
 
 </div>
 
+</details>
+
 ---
 
 ## Actualmente aprendiendo
@@ -71,12 +91,12 @@ Apasionado por la **ciencia de datos** y la **inteligencia artificial**. Mi moti
 
 ## Proyectos destacados
 
-| Proyecto | Qué resuelve | Señales |
-| :--- | :--- | :---: |
-| [**Vigilancia de Competidores**](https://github.com/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores) | Web scraping automatizado para monitorear la competencia en línea e inteligencia de mercado. | <img src="https://img.shields.io/github/stars/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores?style=flat-square&color=14B8A6" alt="stars" /> <img src="https://img.shields.io/github/last-commit/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores?style=flat-square" alt="last commit" /> |
-| [**Trabajo Final Data Science**](https://github.com/RickyFer22/Preentrega-Trabajo-Final-) | Análisis y modelado de datos como entrega final del curso de Data Science (Coder House). | <img src="https://img.shields.io/github/stars/RickyFer22/Preentrega-Trabajo-Final-?style=flat-square&color=14B8A6" alt="stars" /> <img src="https://img.shields.io/github/last-commit/RickyFer22/Preentrega-Trabajo-Final-?style=flat-square" alt="last commit" /> |
-| [**Automatización WordPress**](https://github.com/RickyFer22/Automatizaci-n-de-Tareas-en-WordPress-con-Python) | Automatización con Python de tareas repetitivas de administración en WordPress. | <img src="https://img.shields.io/github/stars/RickyFer22/Automatizaci-n-de-Tareas-en-WordPress-con-Python?style=flat-square&color=14B8A6" alt="stars" /> <img src="https://img.shields.io/github/last-commit/RickyFer22/Automatizaci-n-de-Tareas-en-WordPress-con-Python?style=flat-square" alt="last commit" /> |
-| [**Bot AFIP Mis Comprobantes**](https://github.com/RickyFer22/bot-Afip-Mis-Comprobantes-) | Bot para consultar y descargar comprobantes fiscales desde AFIP «Mis Comprobantes». | <img src="https://img.shields.io/github/stars/RickyFer22/bot-Afip-Mis-Comprobantes-?style=flat-square&color=14B8A6" alt="stars" /> <img src="https://img.shields.io/github/last-commit/RickyFer22/bot-Afip-Mis-Comprobantes-?style=flat-square" alt="last commit" /> |
+| Proyecto | Qué resuelve | Lenguaje | Señales |
+| :--- | :--- | :---: | :---: |
+| [**Vigilancia de Competidores**](https://github.com/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores) | Web scraping automatizado para monitorear la competencia en línea e inteligencia de mercado. | <img src="https://img.shields.io/github/languages/top/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores?style=flat-square" alt="lenguaje" /> | <img src="https://img.shields.io/github/stars/RickyFer22/Web-Scraping-Automatizado-para-la-Vigilancia-de-Competidores?style=flat-square&color=14B8A6" alt="stars" /> |
+| [**Trabajo Final Data Science**](https://github.com/RickyFer22/Preentrega-Trabajo-Final-) | Análisis y modelado de datos como entrega final del curso de Data Science (Coder House). | <img src="https://img.shields.io/github/languages/top/RickyFer22/Preentrega-Trabajo-Final-?style=flat-square" alt="lenguaje" /> | <img src="https://img.shields.io/github/stars/RickyFer22/Preentrega-Trabajo-Final-?style=flat-square&color=14B8A6" alt="stars" /> |
+| [**Automatización WordPress**](https://github.com/RickyFer22/Automatizaci-n-de-Tareas-en-WordPress-con-Python) | Automatización con Python de tareas repetitivas de administración en WordPress. | <img src="https://img.shields.io/github/languages/top/RickyFer22/Automatizaci-n-de-Tareas-en-WordPress-con-Python?style=flat-square" alt="lenguaje" /> | <img src="https://img.shields.io/github/stars/RickyFer22/Automatizaci-n-de-Tareas-en-WordPress-con-Python?style=flat-square&color=14B8A6" alt="stars" /> |
+| [**Bot AFIP Mis Comprobantes**](https://github.com/RickyFer22/bot-Afip-Mis-Comprobantes-) | Bot para consultar y descargar comprobantes fiscales desde AFIP «Mis Comprobantes». | <img src="https://img.shields.io/github/languages/top/RickyFer22/bot-Afip-Mis-Comprobantes-?style=flat-square" alt="lenguaje" /> | <img src="https://img.shields.io/github/stars/RickyFer22/bot-Afip-Mis-Comprobantes-?style=flat-square&color=14B8A6" alt="stars" /> |
 
 ---
 
